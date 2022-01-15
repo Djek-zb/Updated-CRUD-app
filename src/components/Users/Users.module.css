@@ -1,0 +1,61 @@
+.usersBorder {
+  margin: 5px;
+  padding: 5px;
+  box-sizing: border-box;
+}
+
+.userAvatar {
+  margin: 10px;
+  height: 50px;
+  width: 50px;
+  border: 1px solid transparent;
+  border-radius: 100px;
+}
+
+h2{
+  margin-left: 0;
+}
+
+.userMap {
+  width: 550px;
+  border: 1px solid  #e4f1f7;
+  margin: 5px;
+  padding: 5px;
+  display: flex;
+  background-color: rgb(243, 249, 253);
+  border-radius: 5px;
+  text-align: center;
+  align-items: center;
+  cursor: pointer;
+  justify-content: space-between;
+}
+
+.second{
+  display: flex;
+  text-align: center;
+  align-items: center;
+}
+
+.btn{
+  display: flex;
+}
+
+.btnUp{
+  border:1px solid orange;
+  padding: 3px;
+  background:none;
+  color: orange;
+  margin: 3px;
+  cursor: pointer;
+  border-radius: 3px;
+}
+
+.btnDel{
+  border:1px solid red;
+  padding: 3px;
+  background:none;
+  color: red;
+  margin: 3px;
+  cursor: pointer;
+  border-radius: 3px;
+}

@@ -1,0 +1,17 @@
+
+
+.navBar{
+    background-color: rgb(86, 155, 247);
+    height: 50px;
+    padding: 10px 50px;
+    text-decoration: none;
+}
+
+.sideBar{
+    background-color: rgb(106, 193, 233);
+    height: 100vh;
+}
+
+.page{
+    height: 100vh;
+}
